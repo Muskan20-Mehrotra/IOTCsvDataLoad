@@ -1,2 +1,2 @@
 # IOTCsvDataLoad
-Bulk data load into Iot 
+Bulk csv file data load into the Iot platform
