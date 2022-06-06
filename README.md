@@ -1,5 +1,5 @@
 # IOTCsvDataLoad
-STEP 1 : The user/developer needs to add the authetication details in "authetication.txt" file , this will reduce the time and efforts required from the developer as now they need to enter the details only once and those same details will be processed or taken as input automatically to complete the rest of the actions.
+STEP 1 : The user/developer needs to add the authetication details in "authetication.txt" file , this will reduce the time and efforts required from the developer as now they need to enter the details only once and those same details will be processed or taken as input automatically to complete the rest of the actions. The user should already have the ".pem" certificate to upload it and to resolve theh ssl certification error
 STEP 2 : The python code will import this text file and will convert it into a python format text.
 STEP 3 : The "Get Method.py will now establish a connection with the IOT Platform and get all the property mappings of the mentioned device type.
 STEP 4: Then we move to bulk data load so we will use "Bulk Data Load.py" where we uploaded the csv file and processeded it to send the bulk data to our IOT platform.
