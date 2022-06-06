@@ -1,0 +1,8 @@
+Enter the Device Type :
+TestPump
+Enter the APIKey :
+a-gsidemo-pzio1y8ese
+Enter the API_Token :
+AZGYIl_pDrJ-qv15cP
+Enter the IOT_Platform URL :
+https://gsidemo.iot.maximoapmsuite-fra04-b3-240f75f72cdf82f997ffe11d34c5adcb-0000.eu-de.containers.appdomain.cloud/api
